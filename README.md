@@ -1,5 +1,5 @@
 # Online-Shopping-Application-using-JavaEE
-It is a simple online shopping application. Custer can view items, purchase. At check out, confirmation email is send with order summary.
+It is a simple online shopping application. Customer can view items, purchase. At check out, confirmation email is send with order summary.
 <br/>
 To use this application:<br/>
 Step 1: Create DB and tables<br/>
